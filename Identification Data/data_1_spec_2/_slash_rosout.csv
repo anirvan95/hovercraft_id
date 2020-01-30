@@ -1,0 +1,10 @@
+rosbagTimestamp,header,seq,stamp,secs,nsecs,frame_id,level,name,msg,file,function,line,topics
+1576079504518627655,,2,,1576079504,498840951,'',2,"""/record_1576079504492190691""","""Subscribing to /rosout""","""/tmp/binarydeb/ros-indigo-rosbag-1.11.21/src/recorder.cpp""","""shared_ptr<ros",211,[/rosout]
+1576079504518643788,,3,,1576079504,501401090,'',2,"""/record_1576079504492190691""","""Subscribing to /tf""","""/tmp/binarydeb/ros-indigo-rosbag-1.11.21/src/recorder.cpp""","""shared_ptr<ros",211,[/rosout]
+1576079504518681163,,4,,1576079504,503855910,'',2,"""/record_1576079504492190691""","""Subscribing to /hoverOpti/pose""","""/tmp/binarydeb/ros-indigo-rosbag-1.11.21/src/recorder.cpp""","""shared_ptr<ros",211,[/rosout]
+1576079504518685920,,5,,1576079504,506209103,'',2,"""/record_1576079504492190691""","""Subscribing to /rosout_agg""","""/tmp/binarydeb/ros-indigo-rosbag-1.11.21/src/recorder.cpp""","""shared_ptr<ros",211,[/rosout]
+1576079504518689365,,6,,1576079504,510247686,'',2,"""/record_1576079504492190691""","""Subscribing to /diagnostics""","""/tmp/binarydeb/ros-indigo-rosbag-1.11.21/src/recorder.cpp""","""shared_ptr<ros",211,[/rosout]
+1576079504518706008,,7,,1576079504,513599148,'',2,"""/record_1576079504492190691""","""Subscribing to /hoverOpti/pose2d""","""/tmp/binarydeb/ros-indigo-rosbag-1.11.21/src/recorder.cpp""","""shared_ptr<ros",211,[/rosout]
+1576079504518710128,,8,,1576079504,516094574,'',2,"""/record_1576079504492190691""","""Subscribing to /hoverstats""","""/tmp/binarydeb/ros-indigo-rosbag-1.11.21/src/recorder.cpp""","""shared_ptr<ros",211,[/rosout]
+1576079504745408085,,9,,1576079197,366255044,'',2,"""/serial_node""","""Setup subscriber on /cmd_thu [geometry_msgs/Pose]""","""SerialClient.py""","""setupSubscriber""",591,"[/diagnostics, /rosout, /cmd_thu, /hoverstats]"
+1576079504746278208,,12,,1576078196,141088363,'',2,"""/mocap_node""","""Initialization complete""","""/home/prabhat/whoover_ws/src/mocap_optitrack/src/mocap_node.cpp""","""OptiTrackRosBridge",90,"[/rosout, /tf, /hoverOpti/pose, /hoverOpti/pose2d]"

@@ -1,0 +1,2 @@
+rosbagTimestamp,header,seq,stamp,secs,nsecs,frame_id,level,name,msg,file,function,line,topics
+1576079640027265210,,60,,1576079639,843778195,'',2,"""/record_1576079639817993890""","""Subscribing to /hoverstats""","""/tmp/binarydeb/ros-indigo-rosbag-1.11.21/src/recorder.cpp""","""shared_ptr<ros",211,[/rosout]

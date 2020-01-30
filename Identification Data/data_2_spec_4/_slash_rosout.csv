@@ -1,0 +1,10 @@
+rosbagTimestamp,header,seq,stamp,secs,nsecs,frame_id,level,name,msg,file,function,line,topics
+1576080620465043042,,2,,1576080620,445475932,'',2,"""/record_1576080620437614873""","""Subscribing to /rosout""","""/tmp/binarydeb/ros-indigo-rosbag-1.11.21/src/recorder.cpp""","""shared_ptr<ros",211,[/rosout]
+1576080620465277493,,3,,1576080620,448323163,'',2,"""/record_1576080620437614873""","""Subscribing to /tf""","""/tmp/binarydeb/ros-indigo-rosbag-1.11.21/src/recorder.cpp""","""shared_ptr<ros",211,[/rosout]
+1576080620465284858,,4,,1576080620,450689988,'',2,"""/record_1576080620437614873""","""Subscribing to /hoverOpti/pose""","""/tmp/binarydeb/ros-indigo-rosbag-1.11.21/src/recorder.cpp""","""shared_ptr<ros",211,[/rosout]
+1576080620465287734,,5,,1576080620,453285165,'',2,"""/record_1576080620437614873""","""Subscribing to /rosout_agg""","""/tmp/binarydeb/ros-indigo-rosbag-1.11.21/src/recorder.cpp""","""shared_ptr<ros",211,[/rosout]
+1576080620465290836,,6,,1576080620,456296772,'',2,"""/record_1576080620437614873""","""Subscribing to /diagnostics""","""/tmp/binarydeb/ros-indigo-rosbag-1.11.21/src/recorder.cpp""","""shared_ptr<ros",211,[/rosout]
+1576080620465293480,,7,,1576080620,460136894,'',2,"""/record_1576080620437614873""","""Subscribing to /hoverOpti/pose2d""","""/tmp/binarydeb/ros-indigo-rosbag-1.11.21/src/recorder.cpp""","""shared_ptr<ros",211,[/rosout]
+1576080620465296263,,8,,1576080620,462557906,'',2,"""/record_1576080620437614873""","""Subscribing to /hoverstats""","""/tmp/binarydeb/ros-indigo-rosbag-1.11.21/src/recorder.cpp""","""shared_ptr<ros",211,[/rosout]
+1576080620645647887,,12,,1576078196,141088363,'',2,"""/mocap_node""","""Initialization complete""","""/home/prabhat/whoover_ws/src/mocap_optitrack/src/mocap_node.cpp""","""OptiTrackRosBridge",90,"[/rosout, /tf, /hoverOpti/pose, /hoverOpti/pose2d]"
+1576080620645956578,,10,,1576080331,748007059,'',2,"""/serial_node""","""Setup subscriber on /cmd_thu [geometry_msgs/Pose]""","""SerialClient.py""","""setupSubscriber""",591,"[/diagnostics, /rosout, /cmd_thu, /hoverstats]"
